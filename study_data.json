@@ -1,0 +1,73 @@
+{
+  "tasks": [
+    {
+      "id": "20260329011021364270",
+      "subject": "Mathematics",
+      "topic": "Calculus \u2013 Integration by Parts",
+      "due_date": "2026-03-29",
+      "priority": "High",
+      "notes": "Focus on u-substitution first.",
+      "done": false,
+      "created_at": "2026-03-29T01:10:21.364284"
+    },
+    {
+      "id": "20260329011021364288",
+      "subject": "Physics",
+      "topic": "Waves & Optics Chapter Review",
+      "due_date": "2025-04-01",
+      "priority": "Medium",
+      "notes": "Read textbook pages 120\u2013145.",
+      "done": false,
+      "created_at": "2026-03-29T01:10:21.364293"
+    },
+    {
+      "id": "20260329011021364295",
+      "subject": "History",
+      "topic": "Essay: Industrial Revolution Causes",
+      "due_date": "2025-04-05",
+      "priority": "High",
+      "notes": "Use at least 3 primary sources.",
+      "done": false,
+      "created_at": "2026-03-29T01:10:21.364298"
+    },
+    {
+      "id": "20260329011021364300",
+      "subject": "Literature",
+      "topic": "Annotate Hamlet Act III",
+      "due_date": "2025-04-10",
+      "priority": "Low",
+      "notes": "Note soliloquy themes.",
+      "done": false,
+      "created_at": "2026-03-29T01:10:21.364303"
+    },
+    {
+      "id": "20260329011021364304",
+      "subject": "Mathematics",
+      "topic": "Practice Paper 1 \u2013 Algebra",
+      "due_date": "2025-03-28",
+      "priority": "High",
+      "notes": "Timed practice under exam conditions.",
+      "done": false,
+      "created_at": "2026-03-29T01:10:21.364307"
+    }
+  ],
+  "subjects": [
+    {
+      "name": "Mathematics",
+      "color": "#3498db"
+    },
+    {
+      "name": "Physics",
+      "color": "#9b59b6"
+    },
+    {
+      "name": "History",
+      "color": "#e67e22"
+    },
+    {
+      "name": "Literature",
+      "color": "#1abc9c"
+    }
+  ],
+  "pomodoro_count": 0
+}
